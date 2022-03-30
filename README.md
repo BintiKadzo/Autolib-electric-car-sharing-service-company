@@ -1,9 +1,13 @@
 # **Autolib electric car-sharing service company **: Investigating a claim about the blue cars from the provided Autolib dataset.
 
 ## **Files**
-link to Google Drive files: (https://drive.google.com/drive/folders/19k4zIuIbXQEdlfhQ4P_zLveNOjJJ84hH?usp=sharing)
-link to hypothesis testing report: 
+Link to Google Drive files: (https://drive.google.com/drive/folders/19k4zIuIbXQEdlfhQ4P_zLveNOjJJ84hH?usp=sharing)
+
+
+Link to hypothesis testing report: 
 (https://docs.google.com/document/d/14IaVNn1ArH3LFfESSMft3cjEx__-izMLTaP3PobwBIQ/edit?usp=sharing)
+
+
 Link to the Google colab notebook: 
 https://drive.google.com/file/d/1_Oots9zm1a_Jk_L3aq1U3yP56d78mEp9/view?usp=sharing
 
