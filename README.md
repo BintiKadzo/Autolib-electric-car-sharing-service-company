@@ -1,4 +1,4 @@
-# **Autolib electric car-sharing service company **: Investigating a claim about the blue cars from the provided Autolib dataset.
+# Autolib electric car-sharing service company: Investigating a claim about the blue cars from the provided Autolib dataset.
 
 ## **Files**
 Link to Google Drive files: (https://drive.google.com/drive/folders/19k4zIuIbXQEdlfhQ4P_zLveNOjJJ84hH?usp=sharing)
